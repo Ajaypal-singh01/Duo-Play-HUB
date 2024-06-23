@@ -8,7 +8,7 @@ function card(props) {
       <img
         className=" inset-0 object-cover group-hover:opacity-80  shadow-lg hover:shadow-md  hover:shadow-[#67a1b2]   h-[85%] w-full rounded-xl  "
         src={gameimg}
-        alt="game_thumbnail"      />
+        alt="game_thumbnail"       />
       <div
         className="transition-all transform  translate-y-8 opacity-0  group-hover:opacity-100  group-hover:translate-y-0 absolute bottom-14 w-full  text-center text-4xl font-semibold text-[#0b6582]  "
       >
